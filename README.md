@@ -1,1 +1,1 @@
-# ACTS
+Code for the extraction of brain activation-transition-spectrum (ACTS) features in the paper "fNIRS-based Machine Learning of  Brain ACtivation-Transition-Spectrum (ACTS) Features Predicts Dopaminergic Treatment in Parkinson’s Disease"
